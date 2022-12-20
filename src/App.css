@@ -1,0 +1,29 @@
+.navbar-nav a {
+  font-size: 18px;
+  color: white;
+}
+
+.navbar a {
+  color: white;
+}
+
+.navbar {
+  background-color: #002859;
+}
+
+.footer-text {
+  background-color: #002859;
+  color: white;
+
+}
+
+.card-img {
+  background-image: url("/home/apathak/website/public/assests/bg1.jpg");
+  height: 550px;
+}
+
+.container-login {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
